@@ -1,2 +1,3 @@
 學習git
 ADd 學習
+commit 紀錄索引狀態
